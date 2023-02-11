@@ -1,4 +1,4 @@
-# Meu nome é Luis Takeo, seja bem vindo ao meu perfil!
+# Meu nome é Luis Takeo, prazer!
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
