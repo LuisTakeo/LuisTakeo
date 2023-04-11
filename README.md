@@ -1,9 +1,9 @@
 # Meu nome é Luis Takeo, prazer!
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTakeo&layout=compact&langs_count=8&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisTakeo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/LuisTakeo">
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTakeo&layout=compact&langs_count=9&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuisTakeo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Sobre mim:
