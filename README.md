@@ -19,13 +19,17 @@
 - 🎮 Amo jogos e videogames desde a minha infância e gosto muito de RPGs (especialmente JRPGs) e jogos de luta. Minha série favorita de jogos é Final Fantasy.
 - 🍕 Amo pizza e sei fazer uma pizza caseira bem gostosa!
 
-## 📚 O que estou estudando atualmente:
+## 📚 Meus conhecimentos:
 
 - <div><img width="40px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="40px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   : Acumulei um bom conhecimento em HTML e CSS através do curso de Desenvolvimento Web do Jamilton Damasceno na Udemy e a Origamid no Youtube, além dos conteúdos da W3 Schools e de Programação Web I da ETEC.</div>
 - <img width="40px" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   : O Javascript eu aprendi bastante de diferentes fontes, sendo vídeos no Youtube, o mesmo curso de Desenvolvimento Web, um curso de Javascript do SerLiv(SerFrontEnd), conteúdos da Dio e da Alura e a própria W3 Schools também.
+- <img width="40px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  : Aprendi por conta do Bootcamp de Angular e tive uma certa facilidade de entender o Typescript por conta dos meus conhecimentos em Javascript e Java.
+- <img width="40px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />         
+  : Recentemente conclui o Bootcamp Formação Angular do Potência Tech (parceria da DIO com Ifood) e aprendi bastante coisa, desde os conceitos de web componentes até os lifecycles, modulos, rotas e serviços em Angular, a qual me abriu a cabeça também para entender outros frameworks.
 - <img width="40px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   : Comecei a estudar esse ano React através de um curso da Udemy, aonde já estou aprendendo e entendendo como funciona a biblioteca. Tenho revezado os estudos junto com Java e gostado bastante.
 - <img width="40px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
