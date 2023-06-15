@@ -9,17 +9,17 @@
 ## Sobre mim:
 
 - 🤓 Tenho 31 anos e sempre fui apaixonado por tecnologia. 
-- 🖥️ Em 2022 decidi começar a estudar programação e peguei um baita gosto pela área. 
-- 🏫 Nesse mesmo ano, ingressei no curso Técnico de Desenvolvimento de Sistemas pela ETEC Camargo Aranha.
-- ✍️ Além disso, conclui o bootcamp de Angular pela Dio, estudo também pela Udemy e por canais do Youtube conteúdos diversos relacionados a área, especialmente voltado a Desenvolvimento Web. 
+- 🖥️ Em 2022 decidi começar a estudar programação e peguei um baita gosto pela área, especialmente pela área de Desenvolvimento Web.
+- 🏫 Nesse mesmo ano, ingressei no curso Técnico de Desenvolvimento de Sistemas pela ETEC Camargo Aranha, a qual concluo no final de 2023. Pretendo em seguida estudar tecnólogo em Analise e Desenvolvimento de Sistemas ou Engenharia de Software.
+- ✍️ Além disso, conclui o bootcamp de Angular pela Dio, estudo também pela Udemy e por canais do Youtube conteúdos diversos relacionados a área.
 
 
 ### Projetos pessoais:
-- <a href="https://jogo-da-forca-iota.vercel.app">Jogo da Forca</a>: Criei um jogo da forca utilizando somente meus conhecimentos em Javascript, HTML e CSS, sem seguir nenhum tutorial e a qual estou atualizando aos poucos.
+- <a href="https://jogo-da-forca-iota.vercel.app">Jogo da Forca</a>: Criei um jogo da forca utilizando somente meus conhecimentos em Javascript, HTML e CSS, do zero, sem seguir nenhum tutorial.
 - <a href="https://cultura-nerd.vercel.app">Cultura Nerd</a>: Trabalho de Conclusão de Semestre que realizei com meus colegas de ETEC Nathalia Xavier (github: https://github.com/Naatslima) e Damião Costa (github: https://github.com/damiaocoliveira), apresentado ao Curso Técnico em Desenvolvimento de Sistemas e orientado pelos professores João e Orlando como requisito parcial para nota de finalização do 1º módulo de 2022 na disciplina Programação Web I.
 
 
-## 📚 Meus conhecimentos:
+### 📚 Meus conhecimentos:
 - <img width="40px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Angular
 - <img width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java
 - <img width="40px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> Typescript
