@@ -8,7 +8,7 @@
 
 ## Sobre mim:
 
-- 🤓 Tenho 21 anos e sempre fui apaixonado por tecnologia. 
+- 🤓 Tenho 32 anos e sempre fui apaixonado por tecnologia. 
 - 🖥️ Em 2022 decidi começar a estudar programação e peguei um baita gosto pela área, especialmente pela área de Desenvolvimento Web.
 - 🏫 Nesse mesmo ano, ingressei no curso Técnico de Desenvolvimento de Sistemas pela ETEC Camargo Aranha, a qual concluo no final de 2023. Pretendo em seguida estudar tecnólogo em Analise e Desenvolvimento de Sistemas ou Engenharia de Software.
 - ✍️ Além disso, conclui o bootcamp de Angular pela Dio, estudo também pela Udemy e por canais do Youtube conteúdos diversos relacionados a área.
