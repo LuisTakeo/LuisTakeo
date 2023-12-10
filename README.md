@@ -13,6 +13,7 @@
 - 🏫 Nesse mesmo ano, ingressei no curso Técnico de Desenvolvimento de Sistemas pela ETEC Camargo Aranha, a qual concluo no final de 2023. Pretendo em seguida estudar tecnólogo em Analise e Desenvolvimento de Sistemas ou Engenharia de Software.
 - ✍️ Além disso, conclui o bootcamp de Angular pela Dio, estudo também pela Udemy e por canais do Youtube conteúdos diversos relacionados a área.
 - 🏊‍♀️ Em Agosto-Setembro/2023 conclui a PiscinaDEV do Instituto 42, a qual foram 26 seguidos de muitos aprendizados dentro e fora do código, a qual utilizamos a linguagem C.
+- 📚 Em Outubro/2023 comecei a formação de Engenharia de Software pela @42sp, a qual sigo estudando no momento.
 
 
 ### Projetos pessoais:
