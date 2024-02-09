@@ -16,12 +16,13 @@
 - 📚 Em Outubro/2023 comecei a formação de Engenharia de Software pela @42sp, a qual sigo estudando no momento.
 
 
-### Projetos pessoais:
-- <a href="https://jogo-da-forca-iota.vercel.app">Jogo da Forca</a>: Criei um jogo da forca utilizando somente meus conhecimentos em Javascript, HTML e CSS, do zero, sem seguir nenhum tutorial.
+### Projetos:
+- <a href="https://jogo-da-forca-iota.vercel.app">Jogo da Forca</a>: Jogo de adivinhação de palavras utilizando meus conhecimentos em Javascript, HTML e CSS, do zero.
+- 
 - <a href="https://cultura-nerd.vercel.app">Cultura Nerd</a>: Trabalho de Conclusão de Semestre que realizei com meus colegas de ETEC Nathalia Xavier (github: https://github.com/Naatslima) e Damião Costa (github: https://github.com/damiaocoliveira), apresentado ao Curso Técnico em Desenvolvimento de Sistemas e orientado pelos professores João e Orlando como requisito parcial para nota de finalização do 1º módulo de 2022 na disciplina Programação Web I.
 
 
-### 📚 Meus conhecimentos:
+### 📚 Conhecimentos:
 - <img width="40px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Angular
 - <img width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java
 - <img width="40px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> Typescript
