@@ -48,15 +48,15 @@
 ### Projetos:
 
 #### 42SP - Software Engineer:
-1. [LIBFT](https://github.com/LuisTakeo/Libft-42): Primeiro projeto realizado na minha formação de Engenharia de Software na 42, a qual fiz minha primeira biblioteca própria de funções em C.
-2. [GNL](https://github.com/LuisTakeo/42-get-next-line): Função que traz a próxima linha alocada de um file descriptor válido.
-3. [FT_Printf](https://github.com/LuisTakeo/42-ftprintf): Projeto a qual reproduzi uma versão mini da Printf, que é uma função de tamanho variádico que imprime um texto formatado e seus argumentos de acordo com suas flags. Flags utilizadas: "cspiduxX%".
-4. [So_Long](https://github.com/LuisTakeo/42-So-Long): Projeto de um jogo 2D do Chopper (One Piece) em C, a qual possui pre-validações de mapa (mapa retangular, caracteres válidos, flood fill) utilizando a MLX42 Codam e suas ferramentas (leitura de arquivo de imagens e suas conversões, manipulação de imagem, escuta de eventos por loops e por keys, controle de memória, etc).
-5. [MiniTalk](https://github.com/LuisTakeo/42-MiniTalk): Projeto da 42SP a qual fiz duas aplicações em processo se comunicarem via UNIX Signals (SIGUSR1 e SIGUSR2), por meio de bitwise. 
-6. Push_Swap: In progress...
+1. [LIBFT](https://github.com/LuisTakeo/Libft-42): Primeiro projeto realizado da 42SP a qual fiz minha primeira biblioteca própria de funções em C.
+2. [GNL](https://github.com/LuisTakeo/42-get-next-line): Função que retorna a próxima linha lida de um fd (file descriptor).
+3. [FT_Printf](https://github.com/LuisTakeo/42-ftprintf): Uma versão mini da Printf, com parseamento de tokens e parametros variadicos. Tokens utilizados: "cspiduxX%".
+4. [So_Long](https://github.com/LuisTakeo/42-So-Long): Jogo 2D do Chopper (One Piece) em C, com pre-validações de mapa (mapa retangular, caracteres válidos, flood fill) utilizando a lib MLX42 Codam (leitura de arquivo, conversões e manipulação de imagem, animação, event listeners, controle de memória, etc).
+5. [MiniTalk](https://github.com/LuisTakeo/42-MiniTalk): Projeto a qual fiz duas aplicações (client e server) em processos diferentes se comunicarem via UNIX Signals (SIGUSR1 e SIGUSR2), utilizando bitwise. 
+6. [PushSwap](https://github.com/LuisTakeo/42-push-swap): Programa que ordena números passados em duas stacks, utilizando listas e conceitos de estruturas de dados.
 
 #### Web: 
-1. [Bom Vizinho](http://sistema-bomvizinho.com.br): Trabalho de Conclusão do Curso Técnico em Desenvolvimento de Sistemas que fiz junto com a [Nathalia Xavier](https://github.com/Naatslima), [Damião Costa](https://github.com/damiaocoliveira), [Leandro Costa](https://github.com/belforz) e [Vinicius Tavano](https://github.com/viniciustavanoferreira). Aplicação Web feita para aproximar a relação entre voluntários e idosos. [Repositório Front](https://github.com/LuisTakeo/voluntariado-site/tree/master). [Repositório Back](https://github.com/LuisTakeo/voluntariado-backend).
+1. [Bom Vizinho](http://sistema-bomvizinho.com.br): Aplicação Web feita para aproximar a relação entre voluntários e idosos. Trabalho de Conclusão do Curso Técnico em Desenvolvimento de Sistemas que fiz junto com a [Nathalia Xavier](https://github.com/Naatslima), [Damião Costa](https://github.com/damiaocoliveira), [Leandro Costa](https://github.com/belforz) e [Vinicius Tavano](https://github.com/viniciustavanoferreira) [Repositório Front](https://github.com/LuisTakeo/voluntariado-site/tree/master). [Repositório Back](https://github.com/LuisTakeo/voluntariado-backend).
 2. <a href="https://jogo-da-forca-iota.vercel.app">Jogo da Forca</a>: Jogo de adivinhação de palavras utilizando Javascript, HTML e CSS. [Repositorio](https://github.com/LuisTakeo/Jogo-da-Forca)
 3.  <a href="https://cultura-nerd.vercel.app">Cultura Nerd</a>: Trabalho de Conclusão de Semestre de Programação Web I que realizei junto com a [Nathalia Xavier](https://github.com/Naatslima) e o [Damião Costa](https://github.com/damiaocoliveira), apresentado ao Curso Técnico em Desenvolvimento de Sistemas e orientado pelos professores João e Orlando. [Repositorio](https://github.com/LuisTakeo/Projeto-Final-Web-I).
 4.  [Pokedex](https://js-pokedex-six.vercel.app): Projeto de uma pokedex (aplicação que traz informações de pokemons) para estudo de requisições HTTP e consumo de APIs. [Repositório](https://github.com/LuisTakeo/js--pokedex).
