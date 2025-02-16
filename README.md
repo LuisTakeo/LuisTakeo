@@ -8,7 +8,6 @@
 
 ## Sobre mim:
 
-- 🤓 Tenho 32 anos e sempre fui apaixonado por tecnologia. 
 - 📚 Estudo Tecnologo em Desenvolvimento de Softwaree Multiplataforma na FATEC Itaquera. Também estudo Engenharia de Software pela @42sp, a qual concluo no início do ano que vem, e técnico em Informatica para Internet na ETEC Sebrae, a qual concluo no final desse ano (2024).
 - 🏫 Em 2023, me formei como Técnico de Desenvolvimento de Sistemas pela ETEC Camargo Aranha.
 - ✍️ Já fiz cursos de SQL do Curso em Video pelo Youtube e o curso de Java/Spring da Cod3r pela Udemy.
