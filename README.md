@@ -8,7 +8,8 @@
 
 ## Sobre mim:
 
-- 📚 Estudo Tecnologo em Desenvolvimento de Softwaree Multiplataforma na FATEC Itaquera. Também estudo Engenharia de Software pela @42sp, a qual concluo no início do ano que vem, e técnico em Informatica para Internet na ETEC Sebrae, a qual concluo no final desse ano (2024).
+- 📚 Estudo Tecnologo em Desenvolvimento de Softwaree Multiplataforma na FATEC Itaquera (3º semestre). Formado em Engenharia de Software pela @42sp (2025), em técnico em Informatica para Internet na ETEC Sebrae (2024) e em Desenvolvimento de Sistemas pela ETEC Camargo Aranha(2023).
+- 💻 Tive uma experiência profissional no CoLab do Itaú, em parceria com a 42SP, a qual pude participar do desenvolvimento de soluções internas utilizando agentes de IA e AWS, sob a mentoria do Eduardo Sejas.
 - 🏫 Em 2023, me formei como Técnico de Desenvolvimento de Sistemas pela ETEC Camargo Aranha.
 - ✍️ Já fiz cursos de SQL do Curso em Video pelo Youtube e o curso de Java/Spring da Cod3r pela Udemy.
 - ✍️ Também em 2023, concluí 2 Bootcamp de Front End, um de Angular pela DIO junto ao IFood e outro da ONE (parceria da Oracle com a Alura) utilizando React JS.
