@@ -1,7 +1,6 @@
 # Meu nome é Luis Takeo, prazer!
 
 ### 📚 Conhecimentos:
-
 <div>
  <img width="25px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java | <img width="25px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> Spring
 </div>
@@ -24,8 +23,6 @@
 <span>
  <img width="25px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> Typescript | <img width="25px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> React |<img width="25px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Angular |
 </span>
-
-
 
 
 <div>
