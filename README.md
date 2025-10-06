@@ -1,5 +1,33 @@
 # Meu nome é Luis Takeo, prazer!
 
+### 📚 Conhecimentos:
+
+<div>
+ <img width="25px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java | <img width="25px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> Spring
+</div>
+<div>
+ <img width="25px" alt="PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> PHP | 
+ <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> Laravel
+</div>
+<div>
+ <img width="25px" alt="C Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>  C | 
+ <img width="25px" alt="C Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> C++
+</div>
+<div>
+<img width="25px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> Go |
+ <img width="25px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> MySQL |
+ <img width="25px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> Python 
+</div>
+<span>
+ <img width="25px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> HTML | <img width="25px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> CSS  |  
+</span>
+<span>
+ <img width="25px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> Typescript | <img width="25px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> React |<img width="25px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Angular |
+</span>
+
+
+
+
 <div>
 <a href="https://github.com/LuisTakeo">
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTakeo&layout=compact&langs_count=9&theme=dracula"/>
@@ -16,32 +44,6 @@
 - 🏊‍♀️ Em Agosto-Setembro/2023 conclui a PiscinaDEV da @42sp, a qual foram 26 seguidos de muitos aprendizados dentro e fora do código, utilizando Shell e C.
 - Como caracteristicas, sei ser independente, tenho o costume de resolver problemas, tanto meus quanto de colegas, sei trabalhar em equipe e tenho experiências diárias com pair programming e senso crítico para melhorias de software.
 
-### 📚 Conhecimentos:
-
-<div>
- <img width="25px" alt="C Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>  C  
-</div>
-<div>
- <img width="25px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java | <img width="25px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> Spring
-</div>
-<div>
- <img width="25px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> HTML | <img width="25px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> CSS  |  <img width="25px" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Javascript 
-</div>
-<div>
- <img width="25px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> Typescript | <img width="25px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> React |<img width="25px" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Angular 
-</div>
-<div>
-<img width="25px" alt="PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> PHP 
-</div>
-<div>
-<img width="25px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> Go
-</div>
-<div>
- <img width="25px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> MySQL
-</div>
-<div>
-<img width="25px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> Python
-</div>
 
 
 
