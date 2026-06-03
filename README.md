@@ -5,8 +5,11 @@ Sou Desenvolvedor de Software, apaixonado por desenvolvimento de aplicações, d
 ### 📚 Conhecimentos:
 <div>
  <img width="25px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java | <img width="25px" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> Spring | 
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" /> Quarkus
-          
+  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" /> Quarkus     
+</div>
+<div>
+ <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> Docker | 
+ <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> AWS         
 </div>
 <div>
  <img width="25px" alt="PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> PHP | 
