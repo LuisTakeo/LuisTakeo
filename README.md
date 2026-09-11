@@ -38,7 +38,7 @@ Sou Desenvolvedor de Software, apaixonado por desenvolvimento de aplicações, d
 
 ## Sobre mim:
 
-- 💻 Atualmente atuo na NTT Data como Desenvolvedor de Software, a qual estou atuando no projeto BOC para uma instituição financeira. Já atuei na criação de coletores Datadog e atualmente estou atuando no desenvolvimento de um CMDB. Atuo com serviços da AWS como criação de Lambdas, Step Function, DynamoDB, também já atuei um pouco com Datadog e observabilidade de IA.
+- 💻 Atualmente atuo na NTT Data como Desenvolvedor de Software, a qual estou atuando no projeto BOC para uma instituição financeira. Já atuei na criação de coletores, APIs, ferramentas utilizando agentes e MCPs. Já atuei com serviços da AWS como criação de Lambdas, Step Function, DynamoDB, também já atuei um pouco com Datadog e observabilidade de IA.
 - 💻 Tive uma experiência profissional de 5 meses no CoLab do Itaú, em parceria com a 42SP, a qual pude participar do desenvolvimento de soluções internas utilizando agentes de IA e AWS, sob a mentoria do Eduardo Sejas.
 - 📚 Estudo Tecnologo em Desenvolvimento de Softwaree Multiplataforma na FATEC Itaquera (3º semestre). Formado em Engenharia de Software pela @42sp (2025), em técnico em Informatica para Internet na ETEC Sebrae (2024) e em Desenvolvimento de Sistemas pela ETEC Camargo Aranha(2023).
 - 🏫 Em 2023, me formei como Técnico de Desenvolvimento de Sistemas pela ETEC Camargo Aranha.
